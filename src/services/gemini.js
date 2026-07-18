@@ -5,7 +5,8 @@ from "@google/generative-ai";
 
 // YOUR API KEY
 
-const API_KEY = "AIzaSyCk9wu92aucsb4wNRuJEFoZMbwGN0iJVIM";
+const API_KEY =
+  "AIzaSyCk9wu92aucsb4wNRuJEFoZMbwGN0iJVIM";
 
 // GEMINI CLIENT
 
