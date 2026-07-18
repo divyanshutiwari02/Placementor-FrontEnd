@@ -5,7 +5,7 @@ from "@google/generative-ai";
 
 // YOUR API KEY
 
-const API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
+const API_KEY = AIzaSyCk9wu92aucsb4wNRuJEFoZMbwGN0iJVIM;
 
 // GEMINI CLIENT
 
