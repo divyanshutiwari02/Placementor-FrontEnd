@@ -1,16 +1,42 @@
-# React + Vite
+# 🎓 Placementor-FrontEnd
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Placementor is a comprehensive web platform designed to streamline the internship and placement journey for students. This repository contains the frontend implementation, engineered to provide a seamless, responsive, and intuitive user experience for tracking job applications, analyzing resume compatibility, and preparing for placement drives.
 
-Currently, two official plugins are available:
+### 🔗 Links
+*   **Live App Deployment:** [https://placementor-front-end.vercel.app/](https://placementor-front-end.vercel.app/)
+*   **Production Backend API Endpoint:** [https://place-d7ee.onrender.com/api](https://place-d7ee.onrender.com/api)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Key Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+*   **🧠 Intelligent ATS Resume Analyzer:** Upload your resume alongside a specific target job description to instantly receive a compatibility score, key match insights, and structural recommendations to help clear automated recruitment filters.
+*   **Interactive Dashboard:** Visualize your personal application metrics, tracking upcoming interviews and critical recruitment milestones at a glance.
+*   **Application Tracking System (ATS):** Log active job openings and dynamically organize your application funnel through custom statuses (Applied, Interviewing, Offered, Rejected).
+*   **Fluid Responsive Design:** Fully optimized layouts ensure an excellent user experience across desktops, tablets, and mobile displays.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*   **Framework:** React.js
+*   **Styling:** Tailwind CSS / Modular Styles
+*   **Routing:** React Router
+*   **AI API:** gemini 2.5 Flash
+*   **Deployment & Hosting:** Vercel
+
+---
+
+## ⚙️ Getting Started
+
+Follow these steps to spin up a local development copy on your machine.
+
+### Prerequisites
+
+*   **Node.js** (v18 or higher recommended)
+*   **npm** or **yarn** package manager
+
+### Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/divyanshutiwari02/Placementor-FrontEnd.git](https://github.com/divyanshutiwari02/Placementor-FrontEnd.git)
+   cd Placementor-FrontEnd
