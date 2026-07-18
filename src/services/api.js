@@ -1,4 +1,4 @@
-const API_URL = "/api";
+const API_URL = "https://place-d7ee.onrender.com";
 
 export const registerUser = (data) =>
   fetch(`${API_URL}/auth/register`, {
