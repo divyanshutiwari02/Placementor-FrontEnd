@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Login from "./components/Login"
+import Login from "./components/Login";
 import Register from "./components/Register";
 import Dashboard from "./components/Dashboard";
 import MockInterview from "./components/MockInterview";
@@ -9,7 +9,7 @@ import ResumeAnalyzer from "./components/ResumeAnalyzer";
 
 function App() {
   return (
-     <BrowserRouter basename="/Placementor-FrontEnd">
+    <BrowserRouter>
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
